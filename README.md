@@ -53,7 +53,7 @@ The dataset contains healthcare-related patient information such as:
 - Excel / CSV
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png.png)
+![Dashboard Preview](dashboard preview.png.png)
 
 ## Project Outcome
 This project helped improve skills in:
